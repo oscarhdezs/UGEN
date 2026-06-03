@@ -1,0 +1,81 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e53]:
+          - generic [ref=e54]:
+            - generic [ref=e57]: Create a card component
+            - img [ref=e60]
+          - generic [ref=e63]:
+            - img [ref=e66]
+            - generic [ref=e71]:
+              - paragraph [ref=e73]: This is a static response. You can place an Anthropic API key in the .env file to use the Anthropic API for component generation. Let me create an App.jsx file to display the component.
+              - generic [ref=e76]: Creating /App.jsx
+              - separator [ref=e77]
+              - paragraph [ref=e79]: I'll create a Card component for you.
+              - generic [ref=e82]: Creating /components/Card.jsx
+              - separator [ref=e83]
+              - paragraph [ref=e85]: Now let me enhance the component with better styling.
+              - generic [ref=e88]: Editing /components/Card.jsx
+              - separator [ref=e89]
+              - generic [ref=e90]:
+                - paragraph [ref=e91]: "Perfect! I've created:"
+                - list [ref=e92]:
+                  - listitem [ref=e93]:
+                    - strong [ref=e94]: Card.jsx
+                    - text: "- A fully-featured card component"
+                  - listitem [ref=e100]:
+                    - strong [ref=e101]: App.jsx
+                    - text: "- The main app file that displays the"
+              - generic [ref=e95]:
+                - img [ref=e96]
+                - generic [ref=e98]: Generating...
+        - generic [ref=e20]:
+          - textbox "Describe the React component you want to create..." [disabled] [ref=e21]
+          - button [disabled] [ref=e22]:
+            - img [ref=e23]
+    - separator [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - tablist [ref=e31]:
+          - tab "Preview" [selected] [ref=e32]
+          - tab "Code" [ref=e33]
+        - generic [ref=e34]:
+          - button "Sign In" [ref=e35]
+          - button "Sign Up" [ref=e36]
+      - iframe [ref=e99]:
+        - generic [ref=f13e5]:
+          - generic [ref=f13e8]:
+            - img "Sofia Martínez" [ref=f13e9]
+            - heading "Sofia Martínez" [level=3] [ref=f13e10]
+            - paragraph [ref=f13e11]: Product Designer
+            - paragraph [ref=f13e12]: Crafting intuitive interfaces at the intersection of form and function.
+            - generic [ref=f13e13]:
+              - generic [ref=f13e14]:
+                - paragraph [ref=f13e15]: "47"
+                - paragraph [ref=f13e16]: Posts
+              - generic [ref=f13e17]:
+                - paragraph [ref=f13e18]: 2,841
+                - paragraph [ref=f13e19]: Followers
+              - generic [ref=f13e20]:
+                - paragraph [ref=f13e21]: "193"
+                - paragraph [ref=f13e22]: Following
+            - button "Follow" [ref=f13e23] [cursor=pointer]
+          - generic [ref=f13e26]:
+            - img "James Okafor" [ref=f13e27]
+            - heading "James Okafor" [level=3] [ref=f13e28]
+            - paragraph [ref=f13e29]: Senior Engineer
+            - paragraph [ref=f13e30]: Building scalable systems and mentoring the next generation of developers.
+            - generic [ref=f13e31]:
+              - generic [ref=f13e32]:
+                - paragraph [ref=f13e33]: "112"
+                - paragraph [ref=f13e34]: Posts
+              - generic [ref=f13e35]:
+                - paragraph [ref=f13e36]: 5,120
+                - paragraph [ref=f13e37]: Followers
+              - generic [ref=f13e38]:
+                - paragraph [ref=f13e39]: "88"
+                - paragraph [ref=f13e40]: Following
+            - button "Follow" [ref=f13e41] [cursor=pointer]
+  - alert [ref=e47]
